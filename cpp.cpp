@@ -8,10 +8,6 @@ int main(int argc, char *argv[])
 		CLOSE
 	};
 
-{
-	using namespace std;
-	cout << "test" << endl;
-}
 	int i;
 	for (i = 0; i < 1000; i++)
 {
