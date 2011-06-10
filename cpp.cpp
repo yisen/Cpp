@@ -7,6 +7,7 @@ int main(int argc, char *argv[])
 		OPEN,
 		CLOSE
 	};
+	int y;
 
 	int i;
 	for (i = 0; i < 1000; i++)
